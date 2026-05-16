@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digging"
+  short_description: "Careful phase workflow with validation loops"
+  default_prompt: "Use $digging to carry out this refactor in careful phases with validation loops."
